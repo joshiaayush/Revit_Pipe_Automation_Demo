@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PipeCreator</Name>
+		<Assembly>D:\Aayush_Joshi_Workspace\Aayush_Joshi\Revit_API\PipeCreation\PipeCreation\bin\x64\Debug\PipeCreation.dll</Assembly>
+		<AddInId>4D7FC903-D8CE-4EBB-92CC-19A59F8538D6</AddInId>
+		<FullClassName>PipeCreation.PipeCreator</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
